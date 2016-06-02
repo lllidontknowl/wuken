@@ -1,0 +1,9 @@
+c:\users\wuken\documents\visual studio 2015\Projects\wk5\wk5\bin\Debug\wk5.exe.config
+c:\users\wuken\documents\visual studio 2015\Projects\wk5\wk5\bin\Debug\wk5.exe
+c:\users\wuken\documents\visual studio 2015\Projects\wk5\wk5\bin\Debug\wk5.pdb
+c:\users\wuken\documents\visual studio 2015\Projects\wk5\wk5\obj\Debug\wk5.csprojResolveAssemblyReference.cache
+c:\users\wuken\documents\visual studio 2015\Projects\wk5\wk5\obj\Debug\wk5.Form1.resources
+c:\users\wuken\documents\visual studio 2015\Projects\wk5\wk5\obj\Debug\wk5.Properties.Resources.resources
+c:\users\wuken\documents\visual studio 2015\Projects\wk5\wk5\obj\Debug\wk5.csproj.GenerateResource.Cache
+c:\users\wuken\documents\visual studio 2015\Projects\wk5\wk5\obj\Debug\wk5.exe
+c:\users\wuken\documents\visual studio 2015\Projects\wk5\wk5\obj\Debug\wk5.pdb
